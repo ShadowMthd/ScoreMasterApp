@@ -1,0 +1,30 @@
+{
+	"TipClass":
+  [
+	{
+          "TipSport": "Soccer",
+          "TipImage": "Soccer icon",
+          "TipWebsite": "https://www.soccer.com/guide/how-to-play-soccer-guide-for-beginners"
+     },
+     {
+          "TipSport": "Baseball",
+          "TipImage": "baseball icon",
+          "TipWebsite": "https://www.wikihow.com/Play-Baseball"
+     },
+     {
+          "TipSport": "Basketball",
+          "TipImage": "Basketball icon",
+          "TipWebsite": "https://www.wikihow.com/Play-Basketball"
+     },
+     {
+          "TipSport": "vollyball",
+          "TipImage": "Volleyball icon",
+          "TipWebsite": "https://www.wikihow.com/Play-Volleyball"
+     },
+     {
+          "TipSport": "American Football",
+          "TipImage": "American Football icon",
+          "TipWebsite": "https://www.wikihow.com/Play-American-Football"
+     }
+	],
+}
